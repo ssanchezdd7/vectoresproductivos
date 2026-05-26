@@ -115,7 +115,7 @@ canvas{width:100%!important;max-height:360px}
   </div>
 
   <div class="footer">
-    Fuente de datos del tablero: Excel de VAB provincial por 52 sectores, años 2004-2024, basado en “Desagregación provincial del valor agregado bruto de la Argentina, base 2004” (CEPAL y Ministerio de Economía de la Argentina, 2022). Para San Juan se utiliza la hoja San_Juan_IIEE del archivo de trabajo. Fuente metodológica sectorial: “El impacto de la minería argentina en los proveedores locales”, Documento de Trabajo Nº 19, diciembre 2021. El índice es una aproximación analítica y no reemplaza un relevamiento de proveedores por CUIT, localización y compras efectivas.
+    Fuente de datos del tablero: Excel de VAB provincial por 52 sectores, años 2004-2024, basado en “Desagregación provincial del valor agregado bruto de la Argentina, base 2004” (CEPAL y Ministerio de Economía de la Argentina, 2022). Fuente metodológica sectorial: “El impacto de la minería argentina en los proveedores locales”, Documento de Trabajo Nº 19, diciembre 2021. El índice es una aproximación analítica y no reemplaza un relevamiento de proveedores por CUIT, localización y compras efectivas.
     <div class="author"><b>Nota de autoría.</b> Elaboración propia de Silvana Sánchez Di Domenico, con fines de análisis estratégico y apoyo a la toma de decisiones públicas sobre desarrollo de proveedores locales, encadenamientos productivos y oportunidades territoriales asociadas a la minería en Argentina.</div>
   </div>
 </div>
