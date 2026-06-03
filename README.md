@@ -74,4 +74,4 @@ LinkedIn: [Silvana Sanchez Di Domenico](https://www.linkedin.com/in/silvana-s%C3
 
 ## ⚖️ Licencia
 
-Definir la licencia antes de publicar el repositorio. Si el contenido se comparte publicamente, se recomienda agregar un archivo `LICENSE` con los terminos de uso.
+Creative Commons Zero v1.0 Universal
