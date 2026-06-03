@@ -8,8 +8,8 @@ El proyecto esta pensado como una pagina estatica: no requiere backend, instalac
 
 Abrir el archivo:
 
-```text
-index.html
+[```text
+index.html](https://ssanchezdd7.github.io/vectoresproductivos/)
 ```
 
 Tambien puede publicarse directamente con GitHub Pages si `index.html` queda en la raiz del repositorio.
