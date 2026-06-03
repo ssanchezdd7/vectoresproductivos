@@ -10,10 +10,10 @@ Abrir el archivo:
 
 [```text
 index.html](https://ssanchezdd7.github.io/vectoresproductivos/)
-```
 
 Tambien puede publicarse directamente con GitHub Pages si `index.html` queda en la raiz del repositorio.
 
+```
 ## Caracteristicas
 
 - Dashboard interactivo de una sola pagina.
