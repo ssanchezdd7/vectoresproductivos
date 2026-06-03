@@ -62,8 +62,9 @@ Los vectores productivos son agregados analiticos de ramas CEPAL-MECON. No const
 
 ## Autoria
 
-Elaboracion analitica de Silvana Sanchez Di Domenico.
+Elaboracion analitica de Silvana Sanchez Di Domenico. Economista. 
+Directora IIEE | Certificada CDPM DAMA Internacional | Felow Senior fAIr LAC_Bid Lab |Investigadora UCC
+LinkedIn: [Silvana Sanchez Di Domenico](https://www.linkedin.com/in/silvana-s%C3%A1nchez-di-domenico/)
 
-## Licencia
 
-Definir la licencia antes de publicar el repositorio. Si el contenido se comparte publicamente, se recomienda agregar un archivo `LICENSE` con los terminos de uso.
+
